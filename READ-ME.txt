@@ -1,0 +1,41 @@
+Youtube downloader
+
+Date of creation: 24/02/2023
+
+author: Stormy
+
+Description:
+Youtube downloader is an app that can download Youtube videos for free.
+
+functionality:
+press (enter) - after inserting the link to download the video.
+press (i) - to show information of the video downloaded.
+press (c) - to clear the current entry input.
+press (f) - to open up the youtube_videos folder. 04/02/2023
+press (r) - to open the READ-ME.txt file. 04/02/2023
+
+Output:
+You can find the downloaded videos in the following manner.
+1. open your file explorer (You already have it open).
+2. Select the videos folder.
+3. Select the youtube_videos folder.
+4. Click which video you want to watch.
+Or press (f) to directly open the youtube_videosfolder.
+
+Update Log.
+
+1st update: 03/03/2023 
+Update type: Quality of life.
+
+Content:
+Added multi threading. So that during the video download, the user could move the window as they desire.
+Added a loading bar. Now the user is given a visual que to tell them that the video is downloading.
+
+
+2nd update: 04/03/2023
+Update type: Quality of life.
+
+Content:
+Added a key bind (f) to open the youtube_videos folder for quick access.
+Added a key bind (r) to open the READ-ME.txt file. 
+ 
