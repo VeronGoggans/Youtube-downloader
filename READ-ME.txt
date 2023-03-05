@@ -12,7 +12,6 @@ press (enter) - after inserting the link to download the video.
 press (i) - to show information of the video downloaded.
 press (c) - to clear the current entry input.
 press (f) - to open up the youtube_videos folder. 04/02/2023
-press (r) - to open the READ-ME.txt file. 04/02/2023
 
 Output:
 You can find the downloaded videos in the following manner.
@@ -37,5 +36,4 @@ Update type: Quality of life.
 
 Content:
 Added a key bind (f) to open the youtube_videos folder for quick access.
-Added a key bind (r) to open the READ-ME.txt file. 
  
